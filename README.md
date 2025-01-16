@@ -9,13 +9,13 @@ This project was developed to address the challenges faced by visually impaired 
 - **Portability**: Develop a compact and lightweight Braille learning device that is easy to carry, akin to a vocabulary book.
 
 ## Software Composition
-![Software Composition](assets/software-composition.png)
+<img src="assets/software-composition.png" alt="Software Composition" width="600">
 
 ## **Main Algorithm Diagram**
-![Main Algorithm Diagram](assets/main-algorithm-diagram.jpg)
+<img src="assets/main-algorithm-diagram.jpg" alt="Main Algorithm Diagram" width="600">
 
 ## **App Algorithm**
-![App Algorithm](assets/app-algorithm-diagram.jpg)
+<img src="assets/app-algorithm-diagram.jpg" alt="App Algorithm" width="600">
 
 ## Documentation
 
