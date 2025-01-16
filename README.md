@@ -1,4 +1,5 @@
 This project was submitted as part of the **2021 Embedded Software Contest**.
+
 <img src="assets/device.png" alt="Device Picture" width="200">
 
 ## Project Overview
@@ -16,7 +17,5 @@ This project was developed to address the challenges faced by visually impaired 
 
 ## **App Algorithm**
 <img src="assets/app-algorithm-diagram.jpg" alt="App Algorithm" width="600">
-
-## Documentation
 
 All project-related documentation can be found [here](assets/documentation.pdf)
