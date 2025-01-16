@@ -1,4 +1,4 @@
-# 2021ESWContest_free_1022
+This project was submitted as part of the **2021 Embedded Software Contest**.
 <img src="assets/device.png" alt="Device Picture" width="200">
 
 ## Project Overview
@@ -19,5 +19,4 @@ This project was developed to address the challenges faced by visually impaired 
 
 ## Documentation
 
-All project-related documentation can be found [here](assets/documentation.pdf).
-This project was submitted as part of the **2021 Embedded Software Contest**.
+All project-related documentation can be found [here](assets/documentation.pdf)
