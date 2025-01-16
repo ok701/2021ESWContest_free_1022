@@ -1,4 +1,4 @@
-<img src="assets/device.png" alt="Device Picture" width="200">
+<img src="assets/device.png" alt="Device Picture" width="400">
 
 This project was submitted as part of the **2021 Embedded Software Contest**.
 
@@ -10,12 +10,12 @@ This project was developed to address the challenges faced by visually impaired 
 - **Portability**: Develop a compact and lightweight Braille learning device that is easy to carry, akin to a vocabulary book.
 
 ## Software Composition
-<img src="assets/software-composition.png" alt="Software Composition" width="600">
+<img src="assets/software-composition.png" alt="Software Composition" width="700">
 
 ## **Main Algorithm Diagram**
-<img src="assets/main-algorithm-diagram.jpg" alt="Main Algorithm Diagram" width="600">
+<img src="assets/main-algorithm-diagram.jpg" alt="Main Algorithm Diagram" width="700">
 
 ## **App Algorithm**
-<img src="assets/app-algorithm-diagram.jpg" alt="App Algorithm" width="600">
+<img src="assets/app-algorithm-diagram.jpg" alt="App Algorithm" width="700">
 
 All project-related documentation can be found [here](assets/documentation.pdf)
