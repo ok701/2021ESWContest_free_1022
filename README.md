@@ -16,7 +16,4 @@ This project was submitted as part of the **2021 Embedded Software Contest**.
 ## **Main Algorithm Diagram**
 <img src="assets/main-algorithm-diagram.jpg" alt="Main Algorithm Diagram" width="700">
 
-## **App Algorithm**
-<img src="assets/app-algorithm-diagram.jpg" alt="App Algorithm" width="700">
-
 All project-related documentation can be found [here](assets/documentation.pdf)
