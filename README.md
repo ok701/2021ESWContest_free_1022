@@ -13,12 +13,13 @@ This project was developed to address the challenges faced by visually impaired 
 ---
 
 ## Software Composition
+![Software Composition](assets/software-composition.png)
 
 ### **Main Algorithm Diagram**
-![Main Algorithm Diagram](assets/main-algorithm-diagram.png)
+![Main Algorithm Diagram](assets/main-algorithm-diagram.jpg)
 
 ### **App Algorithm**
-![App Algorithm](assets/app-algorithm-diagram.png)
+![App Algorithm](assets/app-algorithm-diagram.jpg)
 
 ---
 
